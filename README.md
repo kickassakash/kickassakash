@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kickassakash
+- 👋 Hi, I’m @kickassakash , student at IIT Kharagpur AI department
 - 👀 I’m interested in machine learning and computer vision and solving coding problems
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning projects 
