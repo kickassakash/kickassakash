@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kickassakash , student at IIT Kharagpur AI department
 - 👀 I’m interested in machine learning and computer vision and solving coding problems
-- 🌱 I’m currently learning deep learning & LLMS
-- 💞️ I’m looking to collaborate on any kind of Deep Learning project(available for Internship also)
+- 🌱 I’m currently working on deep learning & LLMS
+- 💞️ I’m looking to collaborate on any kind of AI/ML project(available for Internship also)
 - 📫 How to reach me  - my personal mail id-> akashroy2141@gmail.com
 
 <!---
